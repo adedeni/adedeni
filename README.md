@@ -32,6 +32,8 @@ I am Adeshina Olayode, a Software Engineer driven by a strong passion for buildi
 
 **Ushopia App**  
 A robust shopping platform designed with Flutter, focused on providing seamless user experiences.
+[Check it out](https://easil.com.ng](https://github.com/adedeni/Ushopia-eCommerce-App.git)
+
 
 **Easil**  
 A web-based platform designed to simplify examination and assessment management for educational institutions. Built with a PHP backend, React frontend, and MySQL database, and Python for AI integration.
