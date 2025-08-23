@@ -33,6 +33,10 @@ I am Adeshina Olayode, a Software Engineer driven by a strong passion for buildi
 **Ushopia App**  
 A robust shopping platform designed with Flutter, focused on providing seamless user experiences.
 
+**Easil**  
+A web-based platform designed to simplify examination and assessment management for educational institutions. Built with a PHP backend, React frontend, and MySQL database, and Python for AI integration.
+[Visit here](https://easil.com.ng)
+
 **Naira4coin App**  
 A secure application enabling fast cryptocurrency exchanges between Naira and digital coins.  
 [Download the app](https://naira4coin.com/apps/4.apk)
