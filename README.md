@@ -1,6 +1,6 @@
 <!-- Elegant dark header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=232526,414345&height=180&section=header&text=Adeshina%20Olayode&fontSize=38&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=232526,414345&height=180&section=header&text=Olayode%20Adeshina&fontSize=38&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">
