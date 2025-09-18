@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adeshina-olayode">
-    <img src="https://img.shields.io/badge/LinkedIn-232526?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/Git-232526?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/Flutter-232526?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-232526?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-232526?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Python-232526?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-232526?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/PHP-232526?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
