@@ -31,17 +31,24 @@ I am Adeshina Olayode, a Software Engineer driven by a strong passion for buildi
 ## Selected Projects
 
 **Ushopia App**  
-A robust shopping platform designed with Flutter, focused on providing seamless user experiences.
+A robust shopping platform designed with Flutter, focused on providing seamless user experiences.  
 [Check it out](https://github.com/adedeni/Ushopia-eCommerce-App.git)
 
-
 **Easil**  
-A web-based platform designed to simplify examination and assessment management for educational institutions. Built with a PHP backend, React frontend, and MySQL database, and Python for AI integration.
+A web-based platform designed to simplify examination and assessment management for educational institutions. Built with a PHP backend, React frontend, and MySQL database, and Python for AI integration.  
 [Visit here](https://easil.com.ng)
 
 **Naira4coin App**  
 A secure application enabling fast cryptocurrency exchanges between Naira and digital coins.  
 [Download the app](https://naira4coin.com/apps/4.apk)
+
+**Swap Pay**  
+A digital wallet and payment platform enabling seamless peer-to-peer transactions and bill payments.  
+[Learn more](#) <!-- Replace # with your project URL or repository if available -->
+
+**Bubu Browser**  
+A privacy-focused mobile browser built for speed and user security.  
+[Learn more](#) <!-- Replace # with your project URL or repository if available -->
 
 ---
 
