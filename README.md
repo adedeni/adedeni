@@ -1,4 +1,4 @@
-<!-- Elegant dark header -->
+<!--dark header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=232526,414345&height=180&section=header&text=Olayode%20Adeshina&fontSize=38&fontColor=ffffff" alt="banner" />
 </p>
@@ -44,11 +44,11 @@ A secure application enabling fast cryptocurrency exchanges between Naira and di
 
 **Swap Pay**  
 A digital wallet and payment platform enabling seamless peer-to-peer transactions and bill payments.  
-[Learn more](#) <!-- Replace # with your project URL or repository if available -->
+[Download the app](https://naira4coin.com/apps/4.apk)
 
 **Bubu Browser**  
 A privacy-focused mobile browser built for speed and user security.  
-[Learn more](#) <!-- Replace # with your project URL or repository if available -->
+[Download the app](https://bububrowser.netlify.app/)
 
 ---
 
