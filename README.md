@@ -76,7 +76,7 @@ Modern Flutter e-commerce app with Firebase backend, clean architecture, and pus
 ### Web & Backend Applications
 
 **Easil - AI-Powered EdTech Platform** - Intelligent Examination Management System
-An AI-powered platform designed to streamline theory-based online examinations with automated grading. Evaluates written responses, provides real-time assessments, and enables seamless exam management. Leverages Python for AI integration.
+An AI-powered platform designed to streamline theory-based online examinations with automated grading. Evaluates written responses, provides real-time assessments, and enables seamless exam manage[...]
 [View Repository](https://github.com/adedeni/Easil-AI-Powered-Edtech-Engine-for-Examination-Assessment) | PHP/Laravel | Python/AI
 Live: [easil.com.ng](https://easil.com.ng)
 
@@ -85,7 +85,7 @@ A comprehensive web platform designed to streamline healthcare services with app
 [View Repository](https://github.com/adedeni/Hospital-Web-Application-) | PHP/Laravel
 
 **Naira4Goods E-commerce Platform** - Fashion Marketplace
-E-commerce platform for fashion items (sneakers, shoes, shirts, native wear) built with PHP and MySQL. Features user registration, secure login, shopping cart, wallet management, and responsive design.
+E-commerce platform for fashion items (sneakers, shoes, shirts, native wear) built with PHP and MySQL. Features user registration, secure login, shopping cart, wallet management, and responsive de[...]
 [View Repository](https://github.com/adedeni/naira4goodsEcommerce-Website) | PHP/MySQL
 
 **PHP Backend Assessment** - Technical Solutions
@@ -141,19 +141,47 @@ Tools & Platforms:
 
 ---
 
-## GitHub Activity
+## GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adedeni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=232526&text_color=ffffff" alt="GitHub Stats" />
+  <strong>📊 Get Live GitHub Stats via API</strong>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adedeni&theme=tokyonight&hide_border=true&background=232526" alt="GitHub Streak" />
-</p>
+To view reliable, real-time GitHub statistics powered by the GitHub API (more reliable than cached services), use these direct links:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedeni&layout=compact&theme=tokyonight&hide_border=true&bg_color=232526&text_color=ffffff" alt="Top Languages" />
-</p>
+**Profile Overview:**
+```
+https://api.github.com/users/adedeni
+```
+
+**Repository Languages:**
+```
+https://api.github.com/user/repos?per_page=100
+```
+Then check each repo's `/languages` endpoint for accurate language statistics.
+
+**Contributor Stats:**
+```
+https://api.github.com/repos/adedeni/{repo-name}/contributors
+```
+
+**Example Usage with cURL:**
+```bash
+# Get user profile stats
+curl https://api.github.com/users/adedeni
+
+# Get language breakdown across all repos
+curl https://api.github.com/users/adedeni/repos?per_page=100 | grep language
+
+# Get repository languages for a specific project
+curl https://api.github.com/repos/adedeni/Ushopia-eCommerce-App/languages
+```
+
+### Alternative Reliable Stats Viewers:
+
+- **[Linguist Library](https://github.com/github-linguist/linguist)** - GitHub's official language detection tool
+- **[GitHub Insights](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/about-repository-graphs)** - Built-in repository graphs (traffic, contributors, commits)
+- **[GitHub REST API](https://docs.github.com/en/rest)** - Authoritative source for all repository data
 
 ---
 
