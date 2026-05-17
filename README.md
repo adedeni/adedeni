@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-232526?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 👨‍💼 About Me
+## About Me
 
 I am **Adeshina Olayode**, a results-driven Software Engineer with expertise across multiple domains:
 
@@ -53,62 +53,62 @@ I am **Adeshina Olayode**, a results-driven Software Engineer with expertise acr
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Mobile Applications
 
-**Ushopia E-commerce App** - Modern Flutter E-commerce Platform  
-A scalable e-commerce application featuring secure authentication, product catalog, shopping cart, checkout, payment integration, and responsive design.  
-🔗 [View Repository](https://github.com/adedeni/Ushopia-eCommerce-App) | 🏗️ **Dart/Flutter** | 🔗 **Firebase**
+**Ushopia E-commerce App** - Modern Flutter E-commerce Platform
+A scalable e-commerce application featuring secure authentication, product catalog, shopping cart, checkout, payment integration, and responsive design.
+[View Repository](https://github.com/adedeni/Ushopia-eCommerce-App) | Dart/Flutter | Firebase
 
-**Flight Booking App** - Modern Airline Ticket Booking System  
-A modern and intuitive Flutter-based mobile application for booking airline tickets and hotel accommodations. Built with clean architecture principles and GetX state management.  
-🔗 [View Repository](https://github.com/adedeni/flightBookingApp) | 🏗️ **Dart/Flutter** | 📐 **Clean Architecture**
+**Flight Booking App** - Modern Airline Ticket Booking System
+A modern and intuitive Flutter-based mobile application for booking airline tickets and hotel accommodations. Built with clean architecture principles and GetX state management.
+[View Repository](https://github.com/adedeni/flightBookingApp) | Dart/Flutter | Clean Architecture
 
-**ChopUp - Food Delivery App** - Seamless Food Ordering Platform  
-A responsive food delivery application built with Flutter that provides a seamless ordering experience with clean UI and efficient state management.  
-🔗 [View Repository](https://github.com/adedeni/fooddelivery-ecommerce-app) | 🏗️ **Dart/Flutter**
+**ChopUp - Food Delivery App** - Seamless Food Ordering Platform
+A responsive food delivery application built with Flutter that provides a seamless ordering experience with clean UI and efficient state management.
+[View Repository](https://github.com/adedeni/fooddelivery-ecommerce-app) | Dart/Flutter
 
-**E-commerce with Push Notifications** - Enhanced Shopping Experience  
-Modern Flutter e-commerce app with Firebase backend, clean architecture, and push notifications. Features real-time cart management, favorites, and responsive design.  
-🔗 [View Repository](https://github.com/adedeni/E-commerce-App-With-Push-Notifications) | 🏗️ **Dart/Flutter** | 📢 **Firebase Cloud Messaging**
+**E-commerce with Push Notifications** - Enhanced Shopping Experience
+Modern Flutter e-commerce app with Firebase backend, clean architecture, and push notifications. Features real-time cart management, favorites, and responsive design.
+[View Repository](https://github.com/adedeni/E-commerce-App-With-Push-Notifications) | Dart/Flutter | Firebase Cloud Messaging
 
 ### Web & Backend Applications
 
-**Easil - AI-Powered EdTech Platform** - Intelligent Examination Management System  
-An AI-powered platform designed to streamline theory-based online examinations with automated grading. Evaluates written responses, provides real-time assessments, and enables seamless exam management. Leverages Python for AI integration.  
-🔗 [View Repository](https://github.com/adedeni/Easil-AI-Powered-Edtech-Engine-for-Examination-Assessment) | 🏗️ **PHP/Laravel** | 🤖 **Python/AI**  
-🌐 Live: [easil.com.ng](https://easil.com.ng)
+**Easil - AI-Powered EdTech Platform** - Intelligent Examination Management System
+An AI-powered platform designed to streamline theory-based online examinations with automated grading. Evaluates written responses, provides real-time assessments, and enables seamless exam management. Leverages Python for AI integration.
+[View Repository](https://github.com/adedeni/Easil-AI-Powered-Edtech-Engine-for-Examination-Assessment) | PHP/Laravel | Python/AI
+Live: [easil.com.ng](https://easil.com.ng)
 
-**Hospital Web Application** - Healthcare Management System  
-A comprehensive web platform designed to streamline healthcare services with appointment booking, user dashboards, department information, and support for medical research.  
-🔗 [View Repository](https://github.com/adedeni/Hospital-Web-Application-) | 🏗️ **PHP/Laravel**
+**Hospital Web Application** - Healthcare Management System
+A comprehensive web platform designed to streamline healthcare services with appointment booking, user dashboards, department information, and support for medical research.
+[View Repository](https://github.com/adedeni/Hospital-Web-Application-) | PHP/Laravel
 
-**Naira4Goods E-commerce Platform** - Fashion Marketplace  
-E-commerce platform for fashion items (sneakers, shoes, shirts, native wear) built with PHP and MySQL. Features user registration, secure login, shopping cart, wallet management, and responsive design.  
-🔗 [View Repository](https://github.com/adedeni/naira4goodsEcommerce-Website) | 🏗️ **PHP/MySQL**
+**Naira4Goods E-commerce Platform** - Fashion Marketplace
+E-commerce platform for fashion items (sneakers, shoes, shirts, native wear) built with PHP and MySQL. Features user registration, secure login, shopping cart, wallet management, and responsive design.
+[View Repository](https://github.com/adedeni/naira4goodsEcommerce-Website) | PHP/MySQL
 
-**PHP Backend Assessment** - Technical Solutions  
-Technical assessment solutions demonstrating PHP backend development expertise, AWS serverless architecture (Lambda), and system design best practices.  
-🔗 [View Repository](https://github.com/adedeni/php-backend-assessment) | 🏗️ **PHP** | ☁️ **AWS Lambda**
+**PHP Backend Assessment** - Technical Solutions
+Technical assessment solutions demonstrating PHP backend development expertise, AWS serverless architecture (Lambda), and system design best practices.
+[View Repository](https://github.com/adedeni/php-backend-assessment) | PHP | AWS Lambda
 
 ### Learning & Reference Resources
 
-**Flutter Boilerplate** - Clean Architecture Template  
-A well-structured Flutter boilerplate for starting projects with best practices.  
-🔗 [View Repository](https://github.com/adedeni/flutter-boilerplate) | 🏗️ **Dart/Flutter**
+**Flutter Boilerplate** - Clean Architecture Template
+A well-structured Flutter boilerplate for starting projects with best practices.
+[View Repository](https://github.com/adedeni/flutter-boilerplate) | Dart/Flutter
 
-**LinkedIn Skill Assessments Quizzes** - Learning Resources  
-Comprehensive reference for LinkedIn skill assessments covering AWS Lambda, REST APIs, JavaScript, React, Git, HTML, jQuery, MongoDB, Java, Go, Python, and Machine Learning.  
-🔗 [View Repository](https://github.com/adedeni/linkedin-skill-assessments-quizzes)
+**LinkedIn Skill Assessments Quizzes** - Learning Resources
+Comprehensive reference for LinkedIn skill assessments covering AWS Lambda, REST APIs, JavaScript, React, Git, HTML, jQuery, MongoDB, Java, Go, Python, and Machine Learning.
+[View Repository](https://github.com/adedeni/linkedin-skill-assessments-quizzes)
 
-**Project Ideas & Resources** - Development Resources  
-A curated collection of application ideas and resources to improve coding skills.  
-🔗 [View Repository](https://github.com/adedeni/Project-Ideas-And-Resources)
+**Project Ideas & Resources** - Development Resources
+A curated collection of application ideas and resources to improve coding skills.
+[View Repository](https://github.com/adedeni/Project-Ideas-And-Resources)
 
 ---
 
-## 📊 Technical Proficiency
+## Technical Proficiency
 
 ```yaml
 Languages & Frameworks:
@@ -141,58 +141,30 @@ Tools & Platforms:
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Activity
 
-### Option 1: Most Reliable - GitHub Activity Graph
 <p align="center">
-  <img src="https://github.com/adedeni.png?size=40" alt="Profile" style="border-radius: 50%; width: 40px; height: 40px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adedeni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=232526&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
-**View detailed GitHub activity:** [adedeni's GitHub Profile](https://github.com/adedeni)
-
-### Option 2: Alternative Stats Provider (Statly - More Reliable)
 <p align="center">
-  <a href="https://github.com/adedeni">
-    <img height="180em" src="https://statly.vercel.app/api?username=adedeni&theme=tokyonight" alt="Statly Stats"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adedeni&theme=tokyonight&hide_border=true&background=232526" alt="GitHub Streak" />
 </p>
 
-### Option 3: GitHub Contribution Graph (Native & Always Working)
-```
-Contributions Overview: View your GitHub activity at
-📊 https://github.com/adedeni?tab=contributions
-```
-
-### Key Stats at a Glance:
-- **Total Public Repositories:** 25+
-- **Primary Languages:** Dart/Flutter, PHP, JavaScript, Python
-- **Focus Areas:** Mobile Apps, Full-Stack Development, EdTech Solutions
-- **Contribution Style:** Consistent development with focus on production-ready applications
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedeni&layout=compact&theme=tokyonight&hide_border=true&bg_color=232526&text_color=ffffff" alt="Top Languages" />
+</p>
 
 ---
 
-## 🎯 Quick Links
+## Connect
 
-| Link | Purpose |
-|------|---------|
-| [GitHub Profile](https://github.com/adedeni) | All repositories and activity |
-| [Contributions Graph](https://github.com/adedeni?tab=contributions) | Commit history and activity |
-| [Repositories](https://github.com/adedeni?tab=repositories) | Browse all projects |
-| [Organizations](https://github.com/adedeni?tab=organizations) | Team affiliations |
+- [LinkedIn](https://linkedin.com/in/adeshina-olayode)
+- [GitHub](https://github.com/adedeni)
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to collaboration, mentorship opportunities, and interesting projects. Feel free to reach out!
-
-- **LinkedIn:** [Adeshina Olayode](https://linkedin.com/in/adeshina-olayode)
-- **GitHub:** [@adedeni](https://github.com/adedeni)
-- **Email:** Contact via LinkedIn
-
----
-
-## 💡 What I'm Currently Exploring
+## Currently Exploring
 
 - Advanced Flutter patterns and performance optimization
 - Microservices architecture and serverless solutions
@@ -203,8 +175,4 @@ I'm always open to collaboration, mentorship opportunities, and interesting proj
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=232526,414345&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>⭐ If you find my projects helpful, consider giving them a star!</i>
 </p>
