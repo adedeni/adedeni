@@ -141,16 +141,44 @@ Tools & Platforms:
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
 
+### Option 1: Most Reliable - GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adedeni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adedeni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/adedeni.png?size=40" alt="Profile" style="border-radius: 50%; width: 40px; height: 40px;" />
 </p>
 
+**View detailed GitHub activity:** [adedeni's GitHub Profile](https://github.com/adedeni)
+
+### Option 2: Alternative Stats Provider (Statly - More Reliable)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedeni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/adedeni">
+    <img height="180em" src="https://statly.vercel.app/api?username=adedeni&theme=tokyonight" alt="Statly Stats"/>
+  </a>
 </p>
+
+### Option 3: GitHub Contribution Graph (Native & Always Working)
+```
+Contributions Overview: View your GitHub activity at
+📊 https://github.com/adedeni?tab=contributions
+```
+
+### Key Stats at a Glance:
+- **Total Public Repositories:** 25+
+- **Primary Languages:** Dart/Flutter, PHP, JavaScript, Python
+- **Focus Areas:** Mobile Apps, Full-Stack Development, EdTech Solutions
+- **Contribution Style:** Consistent development with focus on production-ready applications
+
+---
+
+## 🎯 Quick Links
+
+| Link | Purpose |
+|------|---------|
+| [GitHub Profile](https://github.com/adedeni) | All repositories and activity |
+| [Contributions Graph](https://github.com/adedeni?tab=contributions) | Commit history and activity |
+| [Repositories](https://github.com/adedeni?tab=repositories) | Browse all projects |
+| [Organizations](https://github.com/adedeni?tab=organizations) | Team affiliations |
 
 ---
 
