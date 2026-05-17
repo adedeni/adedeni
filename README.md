@@ -144,44 +144,20 @@ Tools & Platforms:
 ## GitHub Activity & Statistics
 
 <p align="center">
-  <strong>📊 Get Live GitHub Stats via API</strong>
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=adedeni&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff" alt="GitHub Stats" />
 </p>
 
-To view reliable, real-time GitHub statistics powered by the GitHub API (more reliable than cached services), use these direct links:
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=adedeni&theme=tokyonight&hide_border=false&background=1a1b27&stroke=00d4ff&ring=00d4ff&fire=ff6600" alt="GitHub Streak" />
+</p>
 
-**Profile Overview:**
-```
-https://api.github.com/users/adedeni
-```
+<p align="center">
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedeni&layout=pie&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d4ff" alt="Top Languages" />
+</p>
 
-**Repository Languages:**
-```
-https://api.github.com/user/repos?per_page=100
-```
-Then check each repo's `/languages` endpoint for accurate language statistics.
-
-**Contributor Stats:**
-```
-https://api.github.com/repos/adedeni/{repo-name}/contributors
-```
-
-**Example Usage with cURL:**
-```bash
-# Get user profile stats
-curl https://api.github.com/users/adedeni
-
-# Get language breakdown across all repos
-curl https://api.github.com/users/adedeni/repos?per_page=100 | grep language
-
-# Get repository languages for a specific project
-curl https://api.github.com/repos/adedeni/Ushopia-eCommerce-App/languages
-```
-
-### Alternative Reliable Stats Viewers:
-
-- **[Linguist Library](https://github.com/github-linguist/linguist)** - GitHub's official language detection tool
-- **[GitHub Insights](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/about-repository-graphs)** - Built-in repository graphs (traffic, contributors, commits)
-- **[GitHub REST API](https://docs.github.com/en/rest)** - Authoritative source for all repository data
+<p align="center">
+  <img width="98%" src="https://github-contribution-stats.vercel.app/api?username=adedeni&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
