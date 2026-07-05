@@ -144,20 +144,33 @@ Tools & Platforms:
 ## GitHub Activity & Statistics
 
 <p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=adedeni&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff" alt="GitHub Stats" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=adedeni&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d4ff&icon_co[...]
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=adedeni&theme=tokyonight&hide_border=false&background=1a1b27&stroke=00d4ff&ring=00d4ff&fire=ff6600" alt="GitHub Streak" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=adedeni&theme=tokyonight&hide_border=false&background=1a1b27&stroke=00d4ff&ring=00d4ff&fire=ff6600" alt="GitHub Strea[...]
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedeni&layout=pie&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d4ff" alt="Top Languages" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedeni&layout=pie&theme=tokyonight&hide_border=false&bg_color=1a1b27&text_color=ffffff&title_color=00d4ff" [...]
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-contribution-stats.vercel.app/api?username=adedeni&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
+
+---
+
+## Commit History
+
+<div align="center">
+  <a href="https://commit-history.com/adedeni">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/adedeni?theme=dark" />
+      <img alt="adedeni's commit history" src="https://commit-history.com/embed/adedeni" />
+    </picture>
+  </a>
+</div>
 
 ---
 
