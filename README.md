@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c2638,100:103049&height=190&section=header&text=Olayode%20Adeshina&fontSize=40&fontColor=eaf0f4&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Mobile&descSize=16&descAlignY=60" alt="Olayode Adeshina, Software Engineer, Full-Stack and Mobile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c2638,100:103049&height=190&section=header&text=Olayode%20Adeshina&fontSize=40&fontColor=eaf0f4&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20and%20Mobile&descSize=16&descAlignY=60" alt="Olayode Adeshina, Software Engineer, Full-Stack and Mobile" />
 </p>
+
 
 <p align="center">
   <b>I build full-stack web and Flutter mobile apps for fintech, telecom and EdTech.</b><br />
